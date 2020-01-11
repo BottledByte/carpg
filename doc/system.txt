@@ -62,7 +62,7 @@ CollisionObject user pointer wskazuje na Unit*/Usable*/Object*
 
 =====================================================================================================
 RENDEROWANIE / RENDER TARGETS (MS = multisampling)
-1. Normalne renderowanie (lub z MS) - domyœlny render target, nic nie trzeba robiæ
+1. Normalne renderowanie (lub z MS) - domyÅ›lny render target, nic nie trzeba robiÄ‡
 2. Normalne + glow
 	1) Wyrenderuj normalnie scene
 	2) RenderTarget = tPostEffect[0]
@@ -97,7 +97,7 @@ RENDEROWANIE / RENDER TARGETS (MS = multisampling)
 	5) Przy ostatnim przebiegu
 	6) RenderTarget = Default, Source = tPostEffect[?]
 	7) Wyrenderuj post effect
-5) Dla MS wygl¹da podobnie tylko ¿e RenderTarget = sPostEffect[?] i trzeba u¿ywaæ StretchRect
+5) Dla MS wyglÄ…da podobnie tylko Å¼e RenderTarget = sPostEffect[?] i trzeba uÅ¼ywaÄ‡ StretchRect
 
 
 =====================================================================================================
@@ -120,9 +120,9 @@ O-----> +X
 
 
 =====================================================================================================
-¯YWIO£Y
+Å»YWIOÅY
 
-           Ogieñ
+           OgieÅ„
              |
              |
 Powietrze ---+--- Ziemia
@@ -130,9 +130,9 @@ Powietrze ---+--- Ziemia
              |
             Woda
 
-POD¯YWIO£Y:
+PODÅ»YWIOÅY:
 woda - zimno, kwas
-powietrze - elektrycznoœæ, trucizna
+powietrze - elektrycznoÅ›Ä‡, trucizna
 ziemia - metal
 
 
@@ -196,9 +196,9 @@ NCP::EndFallback-->
 
 ================================================================
 autoexp.dat
-Zmiana na wyœwietlanie w debuggerze po¿ytecznych informacji o Unit
+Zmiana na wyÅ›wietlanie w debuggerze poÅ¼ytecznych informacji o Unit
 type=npc ptr=0xDEADC0DE refid=7 base="warrior" pos=(4,8,15)
-dla vector dodaje pole raw members bo mi siê przydaje!
+dla vector dodaje pole raw members bo mi siÄ™ przydaje!
 
 ;------------------------------------------------------------------------------
 Unit {
